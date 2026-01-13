@@ -1,0 +1,7 @@
+dept_id,dept_name,manager,region
+DEPT-001,Sales Operations,Ahmed Al-Maktoum,Dubai
+DEPT-002,Inventory Management,Fatima Al-Nahyan,Abu Dhabi
+DEPT-003,Customer Service,Omar Al-Qasimi,Sharjah
+DEPT-004,Marketing,Sara Al-Rashid,Dubai
+DEPT-005,Finance,Hassan Al-Farsi,Dubai
+DEPT-006,Logistics,Khalid Al-Balushi,Abu Dhabi
