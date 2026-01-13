@@ -1,0 +1,11 @@
+campaign_id,campaign_name,start_date,end_date,city,channel,category,discount_pct,promo_budget_aed
+CAMP-001,Ramadan Sale,2024-12-15 00:00:00,2024-12-28 00:00:00,All,All,All,25,500000
+CAMP-002,Summer Clearance,2024-12-29 00:00:00,2024-01-11 00:00:00,Dubai,App,Fashion,30,300000
+CAMP-003,Electronics Week,2024-01-12 00:00:00,2024-01-25 00:00:00,All,Marketplace,Electronics,15,400000
+CAMP-004,Beauty Bonanza,2024-01-26 00:00:00,2024-02-08 00:00:00,Abu Dhabi,Web,Beauty,20,150000
+CAMP-005,Sports Festival,2024-02-09 00:00:00,2024-02-22 00:00:00,Sharjah,All,Sports,20,200000
+CAMP-006,Back to School,2024-02-23 00:00:00,2024-03-08 00:00:00,All,App,Books,15,250000
+CAMP-007,Home Makeover,2024-03-09 00:00:00,2024-03-22 00:00:00,Dubai,Web,Home & Garden,25,350000
+CAMP-008,Flash Sale,2024-03-23 00:00:00,2024-04-05 00:00:00,All,Marketplace,All,35,100000
+CAMP-009,Weekend Special,2024-04-06 00:00:00,2024-04-19 00:00:00,Dubai,App,Grocery,10,75000
+CAMP-010,Year End Blowout,2024-04-20 00:00:00,2024-05-03 00:00:00,All,All,All,40,600000
