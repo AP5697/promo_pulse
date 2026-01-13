@@ -1,0 +1,19 @@
+store_id,city,channel,fulfillment_type
+STORE-001,Dubai,App,Own
+STORE-002,Dubai,App,3PL
+STORE-003,Dubai,Web,Own
+STORE-004,Dubai,Web,3PL
+STORE-005,Dubai,Marketplace,Own
+STORE-006,Dubai,Marketplace,3PL
+STORE-007,Abu Dhabi,App,Own
+STORE-008,Abu Dhabi,App,3PL
+STORE-009,Abu Dhabi,Web,Own
+STORE-010,Abu Dhabi,Web,3PL
+STORE-011,Abu Dhabi,Marketplace,Own
+STORE-012,Abu Dhabi,Marketplace,3PL
+STORE-013,Sharjah,App,Own
+STORE-014,Sharjah,App,3PL
+STORE-015,Sharjah,Web,Own
+STORE-016,Sharjah,Web,3PL
+STORE-017,Sharjah,Marketplace,Own
+STORE-018,Sharjah,Marketplace,3PL
